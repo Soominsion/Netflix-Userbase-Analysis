@@ -88,7 +88,4 @@ Created using **Looker Studio**:
 - Gained hands-on experience in cloud-native ML (BQML)
 - Identified the business value of analytical data engineering
 
----
-
-## 📁 Project Structure
 
